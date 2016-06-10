@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	min-width: 100%;
+	min-height: 100%;
+	font-family: "Open Sans";
+	font-size: 96%;
+}
+
+a {
+	text-decoration: none;
+	color: #4285F4;
+}
+
+a:hover {
+	transition: 0.5;
+	color: #4888F8;
+}
+
+img, picture, video, embed {  max-width: 100%; }
+
+textarea { overflow: auto; }
+
+.logo {
+	font-family: "Lobster";
+	font-weight: 300;
+	color: #4285F4;
+	font-size: 36px;
+}
+
+.txt-center { text-align: center; }
+.txt-right  { text-align: right; }
+.txt-left   { text-align: left; }
+
+.container {
+   	max-width: 1128px;
+	margin: 0 auto;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}

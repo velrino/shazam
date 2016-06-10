@@ -1,0 +1,31 @@
+#login {
+	padding-top: 18%;
+}
+
+.form {
+	margin-right: auto;
+	margin-left: auto;
+	height: 35px;
+	width: 70%;
+	margin-top: 35px;
+	border: 1px solid #4285F4;
+	color: #4285F4;
+	border-radius: 2px;
+	padding-left: 20px;
+}
+
+.submit {
+	margin-top: 10%;
+	padding: 10px 22px;
+	color: #fff;
+	border: none;
+	border-radius: 2px;
+	cursor: pointer;
+	background: #4285F4;
+}
+
+.facebook {
+	display: inline-block;
+	padding-top: 5%;
+	color: #333;
+}
